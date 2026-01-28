@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Oliver (Brxzee)
 
-<!--
-**Brxzee/brxzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Early-career Software, Cloud, and Data Engineer with strong Python and .NET experience.
 
-Here are some ideas to get you started:
+I build real systems — from event-driven services and automation clients to cloud infrastructure and data pipelines.
+My background spans backend development, AWS platforms, infrastructure-as-code, and production engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently seeking roles in:
+- Software Engineering (C#, Python)
+- Cloud / Platform Engineering (AWS, Terraform)
+- Data Engineering / Analytics
+- Security Operations
+
+🛠 Core Skills
+- Languages: Python, C#, SQL
+- Cloud: AWS (Lambda, S3, Kinesis, RDS, IAM, CloudWatch)
+- Infrastructure: Terraform, CI/CD (GitHub Actions)
+- Systems: REST APIs, Event-Driven Architecture, ETL Pipelines
+- Practices: Unit Testing, TDD, Git, Agile, Secure Coding
+
+📌 Highlighted Projects
+- **Guardian Streamer** – Event-driven AWS service ingesting API data and publishing real-time streams
+- **Cloud ETL Pipeline** – Production-style data platform using Python, AWS, SQL, and Terraform
+- **Real-Time Automation Client** – Low-latency C# system with MVVM architecture and API-driven workflows
+
+I’m particularly interested in roles where I can work on real production systems, learn from experienced engineers, and grow into building large-scale, reliable platforms.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/oliver-kwasny-421050216/)
