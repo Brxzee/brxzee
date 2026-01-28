@@ -19,8 +19,8 @@ My background spans backend development, AWS platforms, infrastructure-as-code, 
 - Practices: Unit Testing, TDD, Git, Agile, Secure Coding
 
 📌 Highlighted Projects
-- **Guardian Streamer** – Event-driven AWS service ingesting API data and publishing real-time streams
-- **Cloud ETL Pipeline** – Production-style data platform using Python, AWS, SQL, and Terraform
+- **[Guardian Streamer](https://github.com/Brxzee/guardian-streamer)** – Event-driven AWS service ingesting API data and publishing real-time streams
+- **[Cloud ETL Pipeline](https://github.com/Brxzee/royal-blue)** – Production-style data platform using Python, AWS, SQL, and Terraform
 - **Real-Time Automation Client** – Low-latency C# system with MVVM architecture and API-driven workflows
 
 I’m particularly interested in roles where I can work on real production systems, learn from experienced engineers, and grow into building large-scale, reliable platforms.
