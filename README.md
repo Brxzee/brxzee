@@ -1,28 +1,13 @@
-### 👋 Hi, I'm Oliver (Brxzee)
+👋 Hi, I'm Oliver Kwasny (Brxzee)
 
-Early-career Software, Cloud, and Data Engineer with strong Python and .NET experience.
+I'm a backend engineer and the founder of Lumeops.
 
-I build real systems — from event-driven services and automation clients to cloud infrastructure and data pipelines.
-My background spans backend development, AWS platforms, infrastructure-as-code, and production engineering practices.
+Right now, I'm focused on helping UK businesses actually get found on Google Maps. I build simple, reliable systems and automation that turn local search into real phone calls and enquiries.
 
-💼 Currently seeking roles in:
-- Software Engineering (C#, Python)
-- Cloud / Platform Engineering (AWS, Terraform)
-- Data Engineering / Analytics
-- Security Operations
+I enjoy taking technical skills (Python, AWS, backend) and using them to solve practical business problems in a clean, no-nonsense way.
 
-🛠 Core Skills
-- Languages: Python, C#, SQL
-- Cloud: AWS (Lambda, S3, Kinesis, RDS, IAM, CloudWatch)
-- Infrastructure: Terraform, CI/CD (GitHub Actions)
-- Systems: REST APIs, Event-Driven Architecture, ETL Pipelines
-- Practices: Unit Testing, TDD, Git, Agile, Secure Coding
+When I'm not working on Lumeops, I like building solid backend systems and automation that make life easier and remove repetitive manual work.
 
-📌 Highlighted Projects
-- **[Guardian Streamer](https://github.com/Brxzee/guardian-streamer)** – Event-driven AWS service ingesting API data and publishing real-time streams
-- **[Cloud ETL Pipeline](https://github.com/Brxzee/royal-blue)** – Production-style data platform using Python, AWS, SQL, and Terraform
-- **Real-Time Automation Client** – Low-latency C# system with MVVM architecture and API-driven workflows
+Always happy to chat about interesting projects or collaborations.
 
-I’m particularly interested in roles where I can work on real production systems, learn from experienced engineers, and grow into building large-scale, reliable platforms.
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/oliver-kwasny-421050216/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/oliver-kwasny-421050216)
